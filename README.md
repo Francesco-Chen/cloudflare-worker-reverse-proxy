@@ -10,6 +10,6 @@ addEventListener(
 		)
 	}
 )
-```js
+```
 
 ![alt text](Screenshot.png)

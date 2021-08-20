@@ -1,4 +1,5 @@
 # cloudflare-worker-reverse-proxy
+```
 addEventListener(
 	"fetch",event => {
 		let url=new URL(event.request.url);
@@ -9,4 +10,5 @@ addEventListener(
 		)
 	}
 )
+```
 ![alt text](Screenshot.png)

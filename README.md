@@ -1,6 +1,9 @@
 # cloudflare-worker-reverse-proxy
 
-### Reverse proxy a web page using Cloudflare worker.
+Reverse proxy a web page using Cloudflare worker.
+
+### How to use:
+copy and insert your hostname that you want to do reverse proxy on Cloudflare worker
 
 ```js
 addEventListener(
